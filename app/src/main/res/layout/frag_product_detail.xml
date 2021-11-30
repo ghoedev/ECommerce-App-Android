@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (c) 2017. http://hiteshsahu.com- All Rights Reserved
-  ~ Unauthorized copying of this file, via any medium is strictly prohibited
-  ~ If you use or distribute this project then you MUST ADD A COPY OF LICENCE
-  ~ along with the project.
-  ~  Written by Hitesh Sahu <hiteshkrsahu@Gmail.com>, 2017.
+ Final Project 2021
   -->
 
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
@@ -157,7 +153,7 @@
             android:textColor="#000"
             android:textSize="20sp" />
 
-        <com.hitesh_sahu.retailapp.view.customview.ClickableViewPager
+        <com.pfinal.onlineshop_project.view.customview.ClickableViewPager
             android:id="@+id/similar_products_pager"
             android:layout_width="match_parent"
             android:layout_height="280dp"
@@ -183,7 +179,7 @@
             android:textColor="#000"
             android:textSize="20sp" />
 
-        <com.hitesh_sahu.retailapp.view.customview.ClickableViewPager
+        <com.pfinal.onlineshop_project.view.customview.ClickableViewPager
             android:id="@+id/top_selleing_pager"
             android:layout_width="match_parent"
             android:layout_height="280dp"
